@@ -1,4 +1,4 @@
-service: serverless-cd
+service: serverless-cd-test-1
 frameworkVersion: '3'
 
 provider:
